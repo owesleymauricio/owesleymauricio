@@ -6,8 +6,7 @@
 ### 👋 Hello World  
 
 - 🔭 Trabalho com **Front-end**  
-- 🌱 Estudo **TypeScript**  
-- ⚡ Pronomes: **ele/dele**  
+- 🌱 Estudo **NEXTJS - NODEJS**   
 
 ---
 
@@ -20,12 +19,6 @@
 
 ---
 
-### ⌨️ Meu tempo de programação  
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ### 🚀 Tecnologias que uso  
 
@@ -33,7 +26,6 @@
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Next.js" height="40" width="80" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
@@ -45,9 +37,6 @@
   <a href="https://www.linkedin.com/in/owesleymauricio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="mailto:owesleymauricio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </div>
 
 ---
