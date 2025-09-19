@@ -5,7 +5,7 @@
 
 ### 👋 Hello World  
 
-- 🔭 Trabalho com **Front-end**  
+- 🔭 Trabalho com **FULLSTACK**  
 - 🌱 Estudo **NEXTJS - NODEJS**   
 
 ---
