@@ -1,4 +1,4 @@
-````md
+
 <!-- ========================= -->
 <!--          HEADER           -->
 <!-- ========================= -->
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 Sobre mim
 
-```typescript
+
 const wesley = {
   role: "Full Stack Developer",
 
@@ -60,7 +60,7 @@ const wesley = {
 
   goal: "Construir sistemas escaláveis, simples e confiáveis"
 };
-````
+
 
 <br>
 
