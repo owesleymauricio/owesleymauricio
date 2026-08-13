@@ -1,22 +1,15 @@
+<h1 align="center">👋 Olá! Eu sou o Wesley</h1>
 
-<!-- ========================= -->
-<!--          HEADER           -->
-<!-- ========================= -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A66C2,100:00C2FF&height=220&section=header&text=Wesley%20Mauricio&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descSize=18"/>
-</p>
-
-<h3 align="center">👋 Olá! Eu sou o Wesley</h3>
+<h3 align="center">Full Stack Developer • Backend • APIs • Cloud & DevOps</h3>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong> com foco em aplicações web, APIs, integrações,<br>
-  banco de dados e automação de processos.
+  Desenvolvedor Full Stack com foco em <strong>aplicações web, APIs, integrações,<br>
+  banco de dados e automação de processos.</strong>
 </p>
 
 <p align="center">
   Tenho interesse especial por <strong>backend, arquitetura, performance e infraestrutura</strong>,<br>
-  buscando cada vez mais compreender todo o ciclo de vida de uma aplicação.
+  buscando compreender cada vez mais todo o ciclo de vida de uma aplicação.
 </p>
 
 <p align="center">
@@ -27,60 +20,39 @@
 
 <br>
 
+---
+
 ## 👨‍💻 Sobre mim
 
+Sou desenvolvedor **Full Stack**, atuando no desenvolvimento e evolução de aplicações web, APIs, integrações e soluções orientadas a dados.
 
-const wesley = {
-  role: "Full Stack Developer",
+No dia a dia trabalho principalmente com **Node.js, NestJS, TypeScript, Next.js, React, React Native e PostgreSQL**, além de automações e integrações entre diferentes sistemas.
 
-  focus: [
-    "Backend",
-    "APIs",
-    "Integrações",
-    "Banco de Dados",
-    "Arquitetura"
-  ],
+Atualmente estou aprofundando meus conhecimentos em **Docker, Kubernetes, arquitetura de software, observabilidade e cloud**, buscando evoluir não apenas no desenvolvimento, mas também na forma como aplicações são construídas, implantadas, monitoradas e escaladas.
 
-  stack: [
-    "Node.js",
-    "TypeScript",
-    "Next.js",
-    "React",
-    "React Native",
-    "PostgreSQL"
-  ],
-
-  learning: [
-    "Docker",
-    "Kubernetes",
-    "Observabilidade",
-    "Cloud",
-    "Arquitetura de Software"
-  ],
-
-  goal: "Construir sistemas escaláveis, simples e confiáveis"
-};
-
+🎯 **Foco:** Backend • APIs • Banco de Dados • Arquitetura • DevOps
 
 <br>
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
 ### ⚙️ Backend & Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres"/>
 </p>
 
-`Node.js` · `TypeScript` · `JavaScript` · `PostgreSQL` · `REST APIs` · `SQL`
+`Node.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `REST APIs` · `SQL`
 
 ### 🖥️ Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css"/>
 </p>
 
-`Next.js` · `React` · `React Native` · `HTML` · `CSS`
+`Next.js` · `React` · `React Native` · `JavaScript` · `HTML` · `CSS`
 
 ### 🐳 DevOps & Infraestrutura
 
@@ -100,60 +72,61 @@ const wesley = {
 
 <br>
 
-## 🧠 Atualmente aprofundando conhecimentos em
+---
 
-```text
-Docker              ████████████████░░░░
-Kubernetes          █████████████░░░░░░░
-Arquitetura         ████████████░░░░░░░░
-Observabilidade     ██████████░░░░░░░░░░
-Cloud               ████████░░░░░░░░░░░░
-```
+## 🧠 Atualmente estudando
 
-Meu foco atual é entender cada vez melhor **como uma aplicação funciona além do código**:
+Meu foco atual está em aprofundar conhecimentos que vão além do desenvolvimento da aplicação:
 
-* 📦 Como uma aplicação é empacotada
-* 🚀 Como é implantada
-* ⚖️ Como escala
-* 📊 Como é monitorada
-* 🔎 Como identificar falhas
-* 🏗️ Como projetar sistemas mais resilientes
+* 🐳 **Docker** — containers e ambientes de execução
+* ☸️ **Kubernetes** — orquestração, deployments, services e escalabilidade
+* 🏗️ **Arquitetura de Software** — organização e evolução de aplicações
+* 📊 **Observabilidade** — métricas, logs e rastreamento
+* ☁️ **Cloud** — infraestrutura e execução de aplicações em produção
+
+Busco entender todo o caminho de uma aplicação:
+
+**Código → Aplicação → Container → Orquestração → Infraestrutura → Observabilidade**
 
 <br>
+
+---
 
 ## 🛠️ Projetos em destaque
 
 ### 💰 Finance SaaS
 
-Aplicação Full Stack para **gestão financeira pessoal e compartilhada**, desenvolvida também como laboratório para estudar arquitetura moderna de aplicações.
+Aplicação Full Stack para **gestão financeira pessoal e compartilhada**, utilizada também como projeto prático para aprofundar conhecimentos em arquitetura moderna de aplicações.
 
-**Stack e conceitos**
+**Stack**
 
-`Next.js` · `Node.js` · `PostgreSQL` · `Docker` · `Kubernetes` · `APIs`
+`Next.js` · `Node.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Docker` · `Kubernetes`
 
 > 🚧 Projeto em desenvolvimento, com foco em arquitetura, containers, observabilidade e boas práticas.
 
 ---
 
-### ⚙️ Automações & Integrações
+### ⚙️ APIs, Automações & Integrações
 
-Desenvolvimento de fluxos de automação e integração entre sistemas, utilizando APIs, banco de dados e regras de negócio.
+Desenvolvimento de soluções para integração entre sistemas, automação de processos e implementação de regras de negócio.
 
 **Tecnologias**
 
-`Node.js` · `Node-RED` · `PostgreSQL` · `REST APIs` · `Webhooks`
+`Node.js` · `NestJS` · `Node-RED` · `PostgreSQL` · `REST APIs` · `Webhooks`
 
 ---
 
 ### 📊 SQL & Dados
 
-Desenvolvimento de consultas e rotinas para análise, reconciliação de dados, performance e automação de processos.
+Desenvolvimento de consultas e rotinas para **análise, reconciliação, transformação e processamento de dados**, com atenção especial à performance.
 
 **Conhecimentos**
 
 `PostgreSQL` · `CTEs` · `JSONB` · `Window Functions` · `Query Optimization`
 
 <br>
+
+---
 
 ## 📈 GitHub
 
@@ -163,39 +136,24 @@ Desenvolvimento de consultas e rotinas para análise, reconciliação de dados, 
 
 <br>
 
-## 💡 Minha jornada
+---
 
-Gosto de aprender tecnologia entendendo **o que acontece por trás das ferramentas**.
+## 💡 Além do código
 
-Não apenas como escrever o código, mas como ele percorre todo o caminho até produção:
+Tenho buscado entender não apenas **como desenvolver uma aplicação**, mas todo o ambiente necessário para que ela funcione de forma confiável em produção.
 
-```text
-                    CÓDIGO
-                      │
-                      ▼
-                  APLICAÇÃO
-                      │
-                      ▼
-                  CONTAINER
-                      │
-                      ▼
-                 KUBERNETES
-                      │
-                      ▼
-               INFRAESTRUTURA
-                      │
-                      ▼
-              OBSERVABILIDADE
-```
+Isso envolve desenvolvimento, banco de dados, containers, orquestração, infraestrutura e observabilidade.
 
-Meu objetivo é evoluir continuamente como desenvolvedor, entendendo cada vez mais **o sistema como um todo**.
+Meu objetivo é continuar evoluindo como **Full Stack Developer**, fortalecendo principalmente meus conhecimentos em **backend, arquitetura e infraestrutura**.
 
 <br>
+
+---
 
 ## 🤝 Vamos conversar?
 
 <p align="center">
-  Desenvolvimento • Backend • Arquitetura • DevOps • Tecnologia
+  Desenvolvimento • Backend • APIs • Arquitetura • DevOps
 </p>
 
 <p align="center">
@@ -210,8 +168,5 @@ Meu objetivo é evoluir continuamente como desenvolvedor, entendendo cada vez ma
 <br>
 
 <p align="center">
-  <strong>💻 Código, aprendizado e evolução contínua.</strong>
+  <strong>💻 Desenvolvimento, aprendizado e evolução contínua.</strong>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A66C2,100:00C2FF&height=100&section=footer"/>
-```
