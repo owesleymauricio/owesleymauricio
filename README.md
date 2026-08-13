@@ -126,17 +126,6 @@ Desenvolvimento de consultas e rotinas para **análise, reconciliação, transfo
 
 <br>
 
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=owesleymauricio&theme=github-dark-blue&hide_border=true&locale=pt_BR"/>
-</p>
-
-<br>
-
----
 
 ## 💡 Além do código
 
